@@ -5,12 +5,12 @@
 
   
 - <b>Personal Projects</b>
-  - [Alternator Motor Project](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Renewable Energy Spin Bike](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Alternator Motor Project](https://github.com/brantlee15/Sentinel-Lab)
+  - [Renewable Energy Spin Bike](https://github.com/brantlee15/Jwipe.PowerShell)
   
 - <b>Academic Projects</b>
-  - [FPGA Electronic Safe System](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Embedded RISC-V Light Cycle Game](https://github.com/joshmadakor1/DecrypterPOC)
+  - [FPGA Electronic Safe System](https://github.com/brantlee15/EncrypterPOC)
+  - [Embedded RISC-V Light Cycle Game](https://github.com/brantlee15/DecrypterPOC)
 
 
 
