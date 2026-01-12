@@ -1,7 +1,23 @@
-## Hi there 👋
+<h1>Hi, I'm Brant, an Electrical Engineering student at UBC </h1>
+
+<h2>Projects:</h2>
+
+
+  
+- <b>Personal Projects</b>
+  - [Alternator Motor Project](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Renewable Energy Spin Bike](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  
+- <b>Academic Projects</b>
+  - [FPGA Electronic Safe System](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Embedded RISC-V Light Cycle Game](https://github.com/joshmadakor1/DecrypterPOC)
+
+
+
+
 
 <!--
-**brantlee15/brantlee15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
